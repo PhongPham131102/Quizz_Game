@@ -1,0 +1,464 @@
+{
+  "level": [
+    {
+      "id": 1,
+      "queries": [
+        {
+          "id": 1,
+          "title": "Có bao nhiêu nốt nhạc cơ bản?",
+          "answers": [
+            {
+              "answerText": "8",
+              "score": false
+            },
+            {
+              "answerText": "7",
+              "score": true
+            },
+            {
+              "answerText": "6)",
+              "score": false
+            },
+            {
+              "answerText": "9",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Thể loại nào thường được giới trẻ sử dụng vào các chuyên mục đường phố?",
+          "answers": [
+            {
+              "answerText": "Rock",
+              "score": false
+            },
+            {
+              "answerText": "Hip Hop",
+              "score": true
+            },
+            {
+              "answerText": "Jazz",
+              "score": false
+            },
+            {
+              "answerText": "R&B",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Nhạc công là gì?",
+          "answers": [
+            {
+              "answerText": "người quản lí nhạc cụ",
+              "score": false
+            },
+            {
+              "answerText": "người biểu diễn nhạc bằng các nhạc cụ",
+              "score": true
+            },
+            {
+              "answerText": "người chế tạo nhạc cụ",
+              "score": false
+            },
+            {
+              "answerText": "người sáng tác nhạc",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Loại nhạc cụ truyền thống độc đáo của vùng núi phía Bắc là gì?",
+          "answers": [
+            {
+              "answerText": "Sáo Trúc",
+              "score": false
+            },
+            {
+              "answerText": "Khèn",
+              "score": true
+            },
+            {
+              "answerText": "Đàn nhị",
+              "score": false
+            },
+            {
+              "answerText": "Đàn Bầu",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Cao độ là gì?",
+          "answers": [
+            {
+              "answerText": "Độ trầm bổng, cao thấp.",
+              "score": true
+            },
+            {
+              "answerText": "Độ ngân dài, ngắn.",
+              "score": false
+            },
+            {
+              "answerText": "Độ mạnh, nhẹ.",
+              "score": false
+            },
+            {
+              "answerText": "Màu âm khác nhau của âm thanh",
+              "score": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "queries": [
+        {
+          "id": 1,
+          "title": "Trường độ là gì?",
+          "answers": [
+            {
+              "answerText": "Độ trầm bổng, cao thấp.",
+              "score": false
+            },
+            {
+              "answerText": "Độ ngân dài, ngắn",
+              "score": true
+            },
+            {
+              "answerText": "Độ mạnh, nhẹ",
+              "score": false
+            },
+            {
+              "answerText": "Màu âm khác nhau của âm thanh",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Ai là tác giả bài hát Lên đàng?",
+          "answers": [
+            {
+              "answerText": "Văn Cao",
+              "score": false
+            },
+            {
+              "answerText": "Phạm Tuyên",
+              "score": false
+            },
+            {
+              "answerText": "Hoàng Lân",
+              "score": false
+            },
+            {
+              "answerText": "Lưu Hữu Phước",
+              "score": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Nốt nhạc nào sau đây có trường độ dài nhất?",
+          "answers": [
+            {
+              "answerText": "nốt đen",
+              "score": false
+            },
+            {
+              "answerText": "nốt trắng",
+              "score": true
+            },
+            {
+              "answerText": "nốt móc",
+              "score": false
+            },
+            {
+              "answerText": "nốt kép",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "“Chèo” thuộc loại hình nghệ thuật nào sau đây?",
+          "answers": [
+            {
+              "answerText": "nghệ thuật sân khấu cổ",
+              "score": true
+            },
+            {
+              "answerText": "nghệ thuật đương đại",
+              "score": false
+            },
+            {
+              "answerText": "nghệ hiện đại",
+              "score": false
+            },
+            {
+              "answerText": "nghệ thuật sân khấu",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Bass là loại thanh điệu nào ?",
+          "answers": [
+            {
+              "answerText": "giọng nam cao",
+              "score": false
+            },
+            {
+              "answerText": "giọng nam trầm",
+              "score": true
+            },
+            {
+              "answerText": "giọng nữ cao",
+              "score": false
+            },
+            {
+              "answerText": "giọng nữ trầm",
+              "score": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "queries": [
+        {
+          "id": 1,
+          "title": "Điền vào ô trống Do>Re>Mi>[...]>[...]>La>Si?",
+          "answers": [
+            {
+              "answerText": "<Fa>,<Sol>",
+              "score": true
+            },
+            {
+              "answerText": "<Sol>,<Fa>t",
+              "score": false
+            },
+            {
+              "answerText": "<Pa>,<Son>",
+              "score": false
+            },
+            {
+              "answerText": "<Son>,<Pha>",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Trong ca khúc:'Dàn đồng ca mùa hạ' của Nguyễn Minh Châu, 'Dàn đồng ca mùa hạ' ở đây dùng để chỉ điều gì?",
+          "answers": [
+            {
+              "answerText": "Tiếng ve kêu",
+              "score": true
+            },
+            {
+              "answerText": "Tiếng đàn",
+              "score": false
+            },
+            {
+              "answerText": "Tiếng hát trưa hè",
+              "score": false
+            },
+            {
+              "answerText": "Tiếng suối róc rách",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Bài hát Lý cây đa thuộc dân ca vùng nào?",
+          "answers": [
+            {
+              "answerText": "Dân ca quan họ Bắc Ninh",
+              "score": true
+            },
+            {
+              "answerText": "NDân ca Quảng Nam",
+              "score": false
+            },
+            {
+              "answerText": "ân ca Thừa Thiên Huế",
+              "score": false
+            },
+            {
+              "answerText": "Dân ca miền núi",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Bài hát'Người lạ ơi' có bao nhiêu thứ để mượn?",
+          "answers": [
+            {
+              "answerText": "4",
+              "score": false
+            },
+            {
+              "answerText": "3",
+              "score": true
+            },
+            {
+              "answerText": "5",
+              "score": false
+            },
+            {
+              "answerText": "6",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Trông điệp khúc bài' Anh cứ đi đi' em đã đuổi anh đi bao nhiêu lần?",
+          "answers": [
+            {
+              "answerText": "2",
+              "score": true
+            },
+            {
+              "answerText": "3",
+              "score": false
+            },
+            {
+              "answerText": "4",
+              "score": false
+            },
+            {
+              "answerText": "0",
+              "score": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "queries": [
+        {
+          "id": 1,
+          "title": "Nhạc sĩ thiên tài W.A Mozart là người nước nào?",
+          "answers": [
+            {
+              "answerText": "Nước Áo",
+              "score": true
+            },
+            {
+              "answerText": "Nước Tây Ban Nha",
+              "score": false
+            },
+            {
+              "answerText": "Nước Ý",
+              "score": false
+            },
+            {
+              "answerText": "Nước Thổ Nhĩ Kìh",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Dấu hóa bất thường được đặt ở đâu trng khuôn nhạc?",
+          "answers": [
+            {
+              "answerText": "Sau khóa nhạc",
+              "score": false
+            },
+            {
+              "answerText": "Trước nốt nhạc",
+              "score": true
+            },
+            {
+              "answerText": "Đầu khuôn nhạc",
+              "score": false
+            },
+            {
+              "answerText": "Cả A,B,C",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Bài' Ngày đầu tiên đi học'là sáng tác của ai?",
+          "answers": [
+            {
+              "answerText": "Văn Cao.",
+              "score": false
+            },
+            {
+              "answerText": "Nguyễn Ngọc Thiện",
+              "score": true
+            },
+            {
+              "answerText": "Phạm Tuyên",
+              "score": false
+            },
+            {
+              "answerText": "Mộng Lân.",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Khuôn nhạc gồm mấy dòng và mấy khe?",
+          "answers": [
+            {
+              "answerText": "Bốn dòng bốn khe",
+              "score": false
+            },
+            {
+              "answerText": "Bốn dòng năm khe",
+              "score": false
+            },
+            {
+              "answerText": "Năm dòng bốn khe",
+              "score": true
+            },
+            {
+              "answerText": "Sáu dòng năm khe",
+              "score": false
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Nhạc sĩ Văn Cao sáng tác bài Tiến quân ca (Quốc ca) vào năm nào?",
+          "answers": [
+            {
+              "answerText": "1944",
+              "score": true
+            },
+            {
+              "answerText": "1945",
+              "score": false
+            },
+            {
+              "answerText": "1946",
+              "score": false
+            },
+            {
+              "answerText": "1948",
+              "score": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

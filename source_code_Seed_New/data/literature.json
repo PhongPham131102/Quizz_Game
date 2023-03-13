@@ -1,0 +1,476 @@
+{
+  "level": [
+    {
+      "id": 1,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Hình tượng nhân vật nào trong sáng tác của Nam Cao được xem như đạt tới mức của một “siêu điển hình ” nghệ thuật?",
+          "answers": [
+            {
+              "answerText": "Lão Hạc",
+              "score": false
+            },
+            {
+              "answerText": "Chí Phèo",
+              "score": true
+            },
+            {
+              "answerText": "Hộ (Đời thừa)",
+              "score": false
+            },
+            {
+              "answerText": "Điền (Trăng sáng)",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Bài thơ Việt Bắc sử dụng lối đối đáp giao duyên của:",
+          "answers": [
+            {
+              "answerText": "Đồng dao",
+              "score": false
+            },
+            {
+              "answerText": "Ca dao dân ca",
+              "score":true
+            },
+            {
+              "answerText": "Vè",
+              "score": false
+            },
+            {
+              "answerText": "Câu đối",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Việt Bắc sử dụng cặp đại từ xưng hô nào?",
+          "answers": [
+            {
+              "answerText": "Ta – ta",
+              "score": false
+            },
+            {
+              "answerText": "Mình – ta",
+              "score": true
+            },
+            {
+              "answerText": "Anh – em",
+              "score": false
+            },
+            {
+              "answerText": "Mình – mình",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Chữ người tử tù được trích trong tập truyện nào dưới đây?",
+          "answers": [
+            {
+              "answerText": "Một chuyến đi",
+              "score":false
+            },
+            {
+              "answerText": "Vang bóng một thời",
+              "score":true
+            },
+            {
+              "answerText": "Tao đàn",
+              "score": false
+            },
+            {
+              "answerText": "Đường vui",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Qua bài thơ “Sóng”, Xuân Quỳnh đã khám phá sự tương đồng, hòa hợp giữa:",
+          "answers": [
+            {
+              "answerText": "'Anh' và 'em'",
+              "score": false
+            },
+            {
+              "answerText": "'Sóng' và 'anh'",
+              "score": false
+            },
+            {
+              "answerText": "Tất cả các đáp án trên",
+              "score": false
+            },
+            {
+              "answerText": "'Sóng' và 'em'",
+              "score": true
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 2,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Loại văn bản nào dưới đây không thuộc phong cách ngôn ngữ hành chính?",
+          "answers": [
+            {
+              "answerText": "Các nghị định",
+              "score": false
+            },
+            {
+              "answerText": "Luận văn",
+              "score": true
+            },
+            {
+              "answerText": "Giấy chứng nhận",
+              "score": false
+            },
+            {
+              "answerText": "Đơn từ",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Thể loại của Truyện Kiều là:",
+          "answers": [
+            {
+              "answerText": "Truyền kí",
+              "score": false
+            },
+            {
+              "answerText": "Kí",
+              "score": false
+            },
+            {
+              "answerText": "Tiểu thuyết chương hồi",
+              "score": false
+            },
+            {
+              "answerText": "Truyện Nôm",
+              "score": true
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Tên thật của nhà văn Nam Cao là gì?",
+          "answers": [
+            {
+              "answerText": "Nguyễn Tường Lân",
+              "score": false
+            },
+            {
+              "answerText":"Trần Hữu Tri",
+              "score": true
+            },
+            {
+              "answerText": "Nguyễn Tường Tam",
+              "score": false
+            },
+            {
+              "answerText": "Nguyễn Trung Thành",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Công việc của Tràng trong truyện ngắn “ Vợ nhặt” ?",
+          "answers": [
+            {
+              "answerText": "Nông dân",
+              "score":false
+            },
+            {
+              "answerText": "Kéo xe bò thuê",
+              "score":true
+            },
+            {
+              "answerText": "Xay lúa thuê",
+              "score": false
+            },
+            {
+              "answerText": "Cày thuê",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Điền vào chỗ trống: 'Từ ấy trông tôi bừng[...].Mặt trời chân lí chói qua tim.(Từ ấy-Tố Hữu)",
+          "answers": [
+            {
+              "answerText": "nắng chói",
+              "score": false
+            },
+            {
+              "answerText": "nắng xuân",
+              "score": false
+            },
+            {
+              "answerText": "nắng vàng",
+              "score": false
+            },
+            {
+              "answerText": "nắng hạ",
+              "score": true
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 3,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Hình tượng nhân vật Huấn Cao trong Chữ Người Tử Tù được tác giả Nguyễn Tuân lấy nguyên mẫu từ nhân vật lịch sử nào sau đây:",
+          "answers": [
+            {
+              "answerText": "Trương Hán Siêu",
+              "score": false
+            },
+            {
+              "answerText": "Cao Bá Quát",
+              "score": true
+            },
+            {
+              "answerText": "Lý Thường Kiệt",
+              "score": false
+            },
+            {
+              "answerText": "Phạm Ngũ Lão",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Những quy luật cơ bản của quá trình văn học là:",
+          "answers": [
+            {
+              "answerText": "Quy luật gắn bó đời sống",
+              "score": false
+            },
+            {
+              "answerText": "Quy luật kế thừa và cách tânc",
+              "score": false
+            },
+            {
+              "answerText": "Quy luật bảo lưu và tiếp biến",
+              "score":false
+            },
+            {
+              "answerText": "Tất cả các đáp án trên",
+              "score":true
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Tên thật của Bà Huyện Thanh Quan là gì?",
+          "answers": [
+            {
+              "answerText": "Ngô Xuân Diệu",
+              "score": false
+            },
+            {
+              "answerText": "Ngô Thị Hinh",
+              "score": true
+            },
+            {
+              "answerText": "Trần Tế Xương",
+              "score": false
+            },
+            {
+              "answerText": "Phạm Qúy Thích",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Vũ Trọng Phụng trong “tiểu thuyết Số Đỏ” mắc phải căn bệnh gì?",
+          "answers": [
+            {
+              "answerText": "Bệnh phong",
+              "score":false
+            },
+            {
+              "answerText": "Bệnh lao",
+              "score": true
+            },
+            {
+              "answerText": "Bệnh viêm phổi",
+              "score": false
+            },
+            {
+              "answerText": "Bệnh sốt rét",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Nhân vật chính của tiểu thuyết Số đỏ?",
+          "answers": [
+            {
+              "answerText": "Cụ cố tổ",
+              "score": false
+            },
+            {
+              "answerText": "Văn Minh",
+              "score": false
+            },
+            {
+              "answerText": "Phán Quan",
+              "score": false
+            },
+            {
+              "answerText": "Xuân Tóc Đỏ",
+              "score": true
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 4,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Quê hương của nhà thơ Chế Lan Viên?",
+          "answers": [
+            {
+              "answerText": "Quy Nhơn",
+              "score": false
+            },
+            {
+              "answerText": "Quảng Trị",
+              "score": true
+            },
+            {
+              "answerText": "Thanh Hóa",
+              "score": false
+            },
+            {
+              "answerText": "Quảng Bình",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Tô hoài sinh năm bao nhiêu?",
+          "answers": [
+            {
+              "answerText": "27/5/1920",
+              "score": false
+            },
+            {
+              "answerText": "11/6/1920",
+              "score": false
+            },
+            {
+              "answerText": "27/9/1920",
+              "score":true
+            },
+            {
+              "answerText": "13/11/1920",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Đáp án nào sau đây không phải nội dung thơ của Tố Hữu?",
+          "answers": [
+            {
+              "answerText": "Trữ tình chính trị.",
+              "score": false
+            },
+            {
+              "answerText": "Tính triết lý, suy tưởng.",
+              "score": true
+            },
+            {
+              "answerText": "Khuynh hướng sử thi",
+              "score": false
+            },
+            {
+              "answerText": "Khuynh hướng suy tưởng.",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Đoạn trường tân thanh có nghĩa là gì?",
+          "answers": [
+            {
+              "answerText": "Đứt từng mảnh ruột",
+              "score":false
+            },
+            {
+              "answerText": "Tiếng kêu mới",
+              "score": true
+            },
+            {
+              "answerText": "Con đường dài màu xanh đứt đoạn",
+              "score": false
+            },
+            {
+              "answerText": "Tiếng kêu mới tới đứt từng mảnh ruột",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Liệt kê những thanh trắc(T)?",
+          "answers": [
+            {
+              "answerText": "Nặng, hỏi, sắc",
+              "score": false
+            },
+            {
+              "answerText": "Huyền, sắc, ngã",
+              "score": false
+            },
+            {
+              "answerText": "Ngang, huyền, sắc",
+              "score": false
+            },
+            {
+              "answerText": "Sắc, nặng, hỏi, ngã",
+              "score": true
+            }
+          ]
+        }
+      ]
+    }
+	
+  ]
+}

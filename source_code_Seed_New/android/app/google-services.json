@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135219326161",
+    "firebase_url": "https://nooo-64166-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nooo-64166",
+    "storage_bucket": "nooo-64166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135219326161:android:d0d9fb788739bfed6169f0",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135219326161-r4nfqlfusg6e15nkittjetem5rebf415.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ46XIiMBL6bIUiqQClablxVi6eog7LxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135219326161-r4nfqlfusg6e15nkittjetem5rebf415.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

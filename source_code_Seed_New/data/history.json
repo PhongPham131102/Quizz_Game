@@ -1,0 +1,464 @@
+{
+    "level": [
+        {
+            "id": 1,
+            "queries": [
+                {
+                    "id": 1,
+                    "title": "Lý Thái Tổ dời đô từ Hoa Lư về Thăng Long vào năm dương lịch nào?",
+                    "answers": [
+                        {
+                            "answerText": "năm 1008",
+                            "score": false
+                        },
+                        {
+                            "answerText": "năm 1010",
+                            "score": true
+                        },
+                        {
+                            "answerText": "năm 1009",
+                            "score": false
+                        },
+                        {
+                            "answerText": "năm 1012",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Triều Nguyễn tổng đã trãi qua bao nhiêu đời vua?",
+                    "answers": [
+                        {
+                            "answerText": "10 đời vua",
+                            "score": false
+                        },
+                        {
+                            "answerText": "11 đời vua",
+                            "score": false
+                        },
+                        {
+                            "answerText": "12 đời vua",
+                            "score": false
+                        },
+                        {
+                            "answerText": "13 đời vua",
+                            "score": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Bản Tuyên ngôn độc lập của nước Việt Nam Dân chủ Cộng hòa được chủ tịch Hồ Chí Minh viết được coi là bản tuyên ngôn độc lập thứ mấy trong lịch sử Việt Nam?",
+                    "answers": [
+                        {
+                            "answerText": "thứ nhất",
+                            "score": false
+                        },
+                        {
+                            "answerText": "thứ ba",
+                            "score": true
+                        },
+                        {
+                            "answerText": "thứ hai",
+                            "score": false
+                        },
+                        {
+                            "answerText": "thứ tư",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Sau CMT8, Bác Hồ đã nói: “ một dân tộc dốt là một dân tộc……”?",
+                    "answers": [
+                        {
+                            "answerText": "Yếu",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Dốt",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Thất bại",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Nhỏ bé",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Nhà Nguyễn lên ngôi năm nào?",
+                    "answers": [
+                        {
+                            "answerText": "1803",
+                            "score": false
+                        },
+                        {
+                            "answerText": "1804",
+                            "score": false
+                        },
+                        {
+                            "answerText": "1805",
+                            "score": false
+                        },
+                        {
+                            "answerText": "1802",
+                            "score": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "queries": [
+                {
+                    "id": 1,
+                    "title": "Triều đại phong kiến Việt Nam đã trải qua bao nhiêu Quốc hiệu?",
+                    "answers": [
+                        {
+                            "answerText": "8",
+                            "score": false
+                        },
+                        {
+                            "answerText": "7",
+                            "score": true
+                        },
+                        {
+                            "answerText": "9",
+                            "score": false
+                        },
+                        {
+                            "answerText": "12",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Kẻ thù nguy hiểm nhất của nước Việt Nam Dân chủ Cộng hòa trong năm đầu sau ngày Cách mạng tháng Tám (1945) thành công là",
+                    "answers": [
+                        {
+                            "answerText": "Phát xít Nhật",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Đế quốc Anh.",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Trung Hoa Dân Quốc",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Thực dân Pháp",
+                            "score": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Ngày 2-9-1945, ở Việt Nam đã diễn ra sự kiện lịch sử trọng đại gì?",
+                    "answers": [
+                        {
+                            "answerText": "Cách mạng tháng Tám thành công trên cả nước",
+                            "score": false
+                        },
+                        {
+                            "answerText": "HCM đọc bản Tuyên ngôn độc lập, tuyên bố sự ra đời của nước VN Dân chủ cộng hòa",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Vua Bảo Đại tuyên bố thoái vị",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Thực dân Pháp chính thức nổ súng quay trở lại xâm lược Việt Nam",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Ngày 2 - 9 - 1945, chủ tịch Hồ Chí Minh đọc bản tuyên ngôn độc lập ở đâu?",
+                    "answers": [
+                        {
+                            "answerText": "quảng trường Ba Đình",
+                            "score": true
+                        },
+                        {
+                            "answerText": "nhà hát Thành phố Hồ Chí Minh",
+                            "score": false
+                        },
+                        {
+                            "answerText": "sư Đoàn quân khu 7",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Thành phố Vinh",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Nước Việt Nam dân chủ Cộng hòa ra đời sau Cách mạng tháng Tám năm 1945 ở Việt Nam là nhà nước?",
+                    "answers": [
+                        {
+                            "answerText": "Công- nông",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Cộng hòa tư sản",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Công- nông- binh",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Dân chủ nhân dân",
+                            "score": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "queries": [
+                {
+                    "id": 1,
+                    "title": "Để giải quyết nạn dốt ngay sau Cách mạng tháng Tám năm 1945, Chủ tịch Hồ Chí Minh đã kí sắc lệnh thành lập tổ chức gì?",
+                    "answers": [
+                        {
+                            "answerText": "hũ gạo cứu đói",
+                            "score": false
+                        },
+                        {
+                            "answerText": "nhà Bình dân học vụ",
+                            "score": true
+                        },
+                        {
+                            "answerText": "bình dân học vụ",
+                            "score": false
+                        },
+                        {
+                            "answerText": "cơ quan Giáo dục quốc gia",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Chính phủ lâm thời nước Việt Nam dân chủ cộng hòa được cải tổ từ",
+                    "answers": [
+                        {
+                            "answerText": "Ủy ban Quân sự cách mạng Bắc Kì",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Ủy ban Khởi nghĩa toàn quốc",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Ủy ban Dân tộc giải phóng Việt Nam",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Tổng bộ Việt Minh",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Ai đã đánh quân Nam Hán trên sông Bạch Đằng,năm 1288?",
+                    "answers": [
+                        {
+                            "answerText": "Ngô Quyền",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Không ai cả",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Trần Hưng Đạo",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Đinh Bộ Lĩnh",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Thắng lợi nào của nhân dân Việt Nam trong thế kỉ XX đã góp phần vào việc xóa bỏ chủ nghĩa phát xít trên thế giới?",
+                    "answers": [
+                        {
+                            "answerText": "Cách mạng tháng Tám năm 1945.",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Kháng chiến chống Pháp (1945 - 1954)",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Chiến thắng Điện Biên Phủ năm 1954.",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Tổng tiến công và nổi dậy Xuân 1975",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Tôi thà làm dân một nước tự do còn hơn làm vua một nước nô lệ câu nói trên là của ai?",
+                    "answers": [
+                        {
+                            "answerText": "Hàm Nghi",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Thành Thái",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Duy Tân",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Bảo Đại",
+                            "score": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "queries": [
+                {
+                    "id": 1,
+                    "title": "Kế hoạch Vườn không nhà trống là kế sách của ai trong việc đẩy lùi thực dân Pháp?",
+                    "answers": [
+                        {
+                            "answerText": "Trần Hưng Đạo",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Nguyễn Tri Phương",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Tự Đức",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Cao Bá Quát",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Nhằm khắc phục tình trạng trống rỗng về ngân sách của Chính phủ sau Cách mạng tháng Tám, nhân dân ta đã hưởng ứng phong trào nào?",
+                    "answers": [
+                        {
+                            "answerText": "Ngày đồng tâm",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Hũ gạo cứu đói",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Tuần lễ vàng",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Nhường cơm, xẻ áo",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nhà nước Việt Nam Dân chủ Cộng hoà được thành lập năm 1945 là nhà nước của?",
+                    "answers": [
+                        {
+                            "answerText": "công, nông, binh",
+                            "score": false
+                        },
+                        {
+                            "answerText": "toàn thể nhân dân",
+                            "score": true
+                        },
+                        {
+                            "answerText": "công nhân và nông dân",
+                            "score": false
+                        },
+                        {
+                            "answerText": "công, nông, trí thức.",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Thái sư Trần Thủ Độ có công lập nên Triều đại nào?",
+                    "answers": [
+                        {
+                            "answerText": "Trần",
+                            "score": true
+                        },
+                        {
+                            "answerText": "Lý",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Lý Bí",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Lý Thái Tông",
+                            "score": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Vị vua đầu tiên trong lịch sử Việt Nam là ai?",
+                    "answers": [
+                        {
+                            "answerText": "Hàm Nghi",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Thành Thái",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Duy Tân",
+                            "score": false
+                        },
+                        {
+                            "answerText": "Lý Nam Đế",
+                            "score": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

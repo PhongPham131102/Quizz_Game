@@ -1,0 +1,593 @@
+{
+  "level": [
+    {
+      "id": 1,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Đâu là Root Widget của 1 ứng dụng Flutter?",
+          "answers": [
+            {
+              "answerText": "Container",
+              "score": false
+            },
+            {
+              "answerText": "MaterialApp",
+              "score": true
+            },
+            {
+              "answerText": "Scaffold",
+              "score": false
+            },
+            {
+              "answerText": "Card",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Định dạng viền cho TextField sử dụng thuộc tính nào?",
+          "answers": [
+            {
+              "answerText":"Decoration",
+              "score": true
+            },
+            {
+              "answerText": "Border",
+              "score":false
+            },
+            {
+              "answerText": "Style",
+              "score": false
+            },
+            {
+              "answerText": "Tất cả đều sai",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Các thuộc tính bắt buộc phải có trong các button ElevateButton, OutlinedButton,...?",
+          "answers": [
+            {
+              "answerText": "onTap và text",
+              "score": false
+            },
+            {
+              "answerText": "onLongTap và content",
+              "score": false
+            },
+            {
+              "answerText": "onPressed và onTap",
+              "score": false
+            },
+            {
+              "answerText": "onPressed và child",
+              "score": true
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Địa chỉ 239.11.20.3 thuộc lớp nào?",
+          "answers": [
+            {
+              "answerText": "Lớp C",
+              "score":false
+            },
+            {
+              "answerText": "Lớp D",
+              "score":true
+            },
+            {
+              "answerText": "Cả hai đều đúng",
+              "score": false
+            },
+            {
+              "answerText": "Cả hai đều sai",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Tên class của controller là danh từ kết hợp với từ nào?",
+          "answers": [
+            {
+              "answerText": "Controller",
+              "score": true
+            },
+            {
+              "answerText": "Classes",
+              "score": false
+            },
+            {
+              "answerText": "Products",
+              "score": false
+            },
+            {
+              "answerText": "Product",
+              "score": false
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 2,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Biểu tượng nào dùng để làm thành 1 biến?",
+          "answers": [
+            {
+              "answerText": "@",
+              "score": false
+            },
+            {
+              "answerText": "$",
+              "score": true
+            },
+            {
+              "answerText": "#",
+              "score": false
+            },
+            {
+              "answerText": "*",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Thuộc tính MaterialApp thể hiện màn hình đâu tiên của ứng dụng là?",
+          "answers": [
+            {
+              "answerText": "home",
+              "score": true
+            },
+            {
+              "answerText": "Index",
+              "score": false
+            },
+            {
+              "answerText": "Body",
+              "score": false
+            },
+            {
+              "answerText": "List",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Số 41 tương ứng với số Bit nào?",
+          "answers": [
+            {
+              "answerText": "00101001",
+              "score": true
+            },
+            {
+              "answerText":"00101101",
+              "score": false
+            },
+            {
+              "answerText": "11001001",
+              "score": false
+            },
+            {
+              "answerText": "01011001",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Địa chỉ IP có độ dài bao nhiêu Bít và bao nhiêu lớp?",
+          "answers": [
+            {
+              "answerText": "32 Bit, 5 lớp(A,B,C,D,E)",
+              "score":true
+            },
+            {
+              "answerText": "32 Bit, 6 lớp(A,B,C,D,E,F)",
+              "score":false
+            },
+            {
+              "answerText": "28 Bit,6 lớp(A,B,C,D,E,F)",
+              "score": false
+            },
+            {
+              "answerText": "8 Bit,5 lớp(A,B,C,D,E)",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Các mức độ Testing được thực hiện theo thứ tự?",
+          "answers": [
+            {
+              "answerText": "Unit, System, Integration, Acceptance",
+              "score": false
+            },
+            {
+              "answerText": "Unit, Integration, System, Acceptance",
+              "score": true
+            },
+            {
+              "answerText": "Unit, Integration, Acceptance ,System",
+              "score": false
+            },
+            {
+              "answerText": "Unit, System, Acceptance, Integration",
+              "score":false
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 3,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Trong CSS thuộc tính để ngăn tác dụng của thuộc tính float?",
+          "answers": [
+            {
+              "answerText": "Sink",
+              "score": false
+            },
+            {
+              "answerText": "Clean",
+              "score":true
+            },
+            {
+              "answerText": "Display",
+              "score": false
+            },
+            {
+              "answerText": "Clear-fix",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Độ ưu tiên đối với các toán tử Logic là:",
+          "answers": [
+            {
+              "answerText": "NOT, AND, OR",
+              "score": true
+            },
+            {
+              "answerText": "AND, NOT, OR",
+              "score": false
+            },
+            {
+              "answerText": "OR, NOT, AND",
+              "score":false
+            },
+            {
+              "answerText": "NOT, OR, AND",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Nhóm nào sau đây  giúp chúng ta tạo ra những sự tương tác với view ?",
+          "answers": [
+            {
+              "answerText": "Navigation Widgets",
+              "score": true
+            },
+            {
+              "answerText": "Interaction Widgets",
+              "score": false
+            },
+            {
+              "answerText": "Animation Widgets",
+              "score": false
+            },
+            {
+              "answerText": "Layout Widgets",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Trong C#, để cho phép chia Listbox thành nhiều cột, chúng ta dùng:",
+          "answers": [
+            {
+              "answerText": "Column",
+              "score":false
+            },
+            {
+              "answerText": "Item",
+              "score": false
+            },
+            {
+              "answerText": "MultiColumn",
+              "score": true
+            },
+            {
+              "answerText": "ToolStrip",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Để thực hiện thêm đường viền xung qua h TextField ta cấu hình thuộc tính gì của nó?",
+          "answers": [
+            {
+              "answerText": "boderRadius",
+              "score": true
+            },
+            {
+              "answerText": "drcoration",
+              "score": false
+            },
+            {
+              "answerText": "outline",
+              "score": false
+            },
+            {
+              "answerText": "shape",
+              "score": false
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 4,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Kiểu dữ liệu nào sau đây của ngôn ngữ Dart dùng lưu trữ dữ liệu dạng từ điển ?",
+          "answers": [
+            {
+              "answerText": "Map",
+              "score": true
+            },
+            {
+              "answerText": "Set",
+              "score": false
+            },
+            {
+              "answerText": "Dictionary",
+              "score": false
+            },
+            {
+              "answerText": "List",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Để lấy giá trị của một biến, đảm bảo giá trị biến đó không null, ta dùng toán tử nào ngay sau biến đó?",
+          "answers": [
+            {
+              "answerText": "@",
+              "score": false
+            },
+            {
+              "answerText": "?",
+              "score": true
+            },
+            {
+              "answerText": "$",
+              "score": false
+            },
+            {
+              "answerText": "&",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Expanded sẽ mở rộng Widget con mặc định theo hướng nào của Widget cha?",
+          "answers": [
+            {
+              "answerText": "MainAxis",
+              "score": true
+            },
+            {
+              "answerText": "CrossAxis",
+              "score": false
+            },
+            {
+              "answerText": "Mọi hướng",
+              "score": false
+            },
+            {
+              "answerText": "Chỉ định trước hướng, nếu không sẽ không được mở rộng",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Phương thức nào được sử dụng trong các lớp database migration?",
+          "answers": [
+            {
+              "answerText": "excute() và rollback()",
+              "score":false
+            },
+            {
+              "answerText": "up() và down()",
+              "score": true
+            },
+            {
+              "answerText": "run() và delete()",
+              "score": false
+            },
+            {
+              "answerText": "save() và update()",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Để kiểm tra việc thiết lập môi trường flutter có đúng hay không ta thường dùng lệnh gì ?",
+          "answers": [
+            {
+              "answerText": "flutter doctor",
+              "score": true
+            },
+            {
+              "answerText": "flutter run",
+              "score": false
+            },
+            {
+              "answerText": "flutter clean",
+              "score": false
+            },
+            {
+              "answerText": "flutter pub get",
+              "score": false
+            }
+          ]
+        }
+      ]
+    },
+	
+    {
+      "id": 5,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Từ khóa await xuất hiện trong:",
+          "answers": [
+            {
+              "answerText": "Chỉ trong hàm sync",
+              "score": false
+            },
+            {
+              "answerText": "Chỉ trong hàm task",
+              "score": false
+            },
+            {
+              "answerText": "Chỉ trong hàm async ",
+              "score": true
+            },
+            {
+              "answerText": "Tất cả hàm trên",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Tập tin đóng gói ứng dụng Android là?",
+          "answers": [
+            {
+              "answerText": "APK ",
+              "score": true
+            },
+            {
+              "answerText": "ACK",
+              "score": false
+            },
+            {
+              "answerText": "APA",
+              "score": false
+            },
+            {
+              "answerText": "EXE",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Ưu điểm của công nghệ phát triển ứng dụng đa nền tảng so với nền tảng ứng dụng gốc là:",
+          "answers": [
+            {
+              "answerText": "phát triển ứng dụng nhanh và linh hoạt ",
+              "score": true
+            },
+            {
+              "answerText": "tốc độ và hiệu suất xử lý",
+              "score": false
+            },
+            {
+              "answerText": "tính năng bảo mật cao",
+              "score": false
+            },
+            {
+              "answerText": "dung lượng lớn",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Widget nào sau đây được KHÔNG nằm trong phân loại multi-child layout widget?",
+          "answers": [
+            {
+              "answerText": "Column",
+              "score":false
+            },
+            {
+              "answerText": "Container",
+              "score": true
+            },
+            {
+              "answerText": "Stack",
+              "score": false
+            },
+            {
+              "answerText": "Listview",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Nhận định nào sau đây là đúng về Flutter?",
+          "answers": [
+            {
+              "answerText": "Là SDK để xây dựng ứng dụng đa nền tảng ",   
+              "score": true
+            },
+            {
+              "answerText": "Là bộ công cụ phát triển ứng dụng Android(ADK)",
+              "score": false
+            },
+            {
+              "answerText": "Là bộ công cụ phát triển ứng dụng iOS(ADK)",
+              "score": false
+            },
+            {
+              "answerText": "Là Framework phát triển ứng dụng bởi Desktop",
+              "score": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

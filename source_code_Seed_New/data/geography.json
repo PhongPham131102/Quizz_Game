@@ -1,0 +1,476 @@
+{
+  "level": [
+    {
+      "id": 1,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Đâu là tên một công viên nước nổi tiếng ở Thành phố Hồ Chí Minh?",
+          "answers": [
+            {
+              "answerText": "Đầm Sen",
+              "score": true
+            },
+            {
+              "answerText": "Chợ nổi Cái Răng",
+              "score": false
+            },
+            {
+              "answerText": "Hồ tây",
+              "score": false
+            },
+            {
+              "answerText": "Biển Đông",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Nhiệt độ trung bình hằng năm của Việt Nam là:",
+          "answers": [
+            {
+              "answerText": "20 độ C",
+              "score": false
+            },
+            {
+              "answerText": "22-27 độ C",
+              "score": false
+            },
+            {
+              "answerText": "25 độ C",
+              "score": false
+            },
+            {
+              "answerText": "18-22 độ C",
+              "score": true
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Tài nguyên đất của Việt Nam rất phong phú, trong đó có nhiều nhất là:",
+          "answers": [
+            {
+              "answerText": "Đất đồng cỏ",
+              "score": false
+            },
+            {
+              "answerText": "Đất phù sa và đất feralit.",
+              "score": true
+            },
+            {
+              "answerText": "Đất phù sa",
+              "score": false
+            },
+            {
+              "answerText": "Đất hoang mạc",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Thành nào vua mộng thấy rồng bay lên?",
+          "answers": [
+            {
+              "answerText": "Thành Thăng long",
+              "score": true
+            },
+            {
+              "answerText": "hành Hạ Long",
+              "score": false
+            },
+            {
+              "answerText": "Thành Cổ Loa",
+              "score": false
+            },
+            {
+              "answerText": "Kinh Thành Huế",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Đáp án nào sau đây là tên một văn miếu ở tỉnh Đồng Nai?",
+          "answers": [
+            {
+              "answerText": "Văn miếu Trấn Biên",
+              "score": true
+            },
+            {
+              "answerText": "Văn miếu Quốc Tự Giám",
+              "score": false
+            },
+            {
+              "answerText": "Văn miếu Nam Đàn",
+              "score": false
+            },
+            {
+              "answerText": "Văn miếu Bửu Long",
+              "score":false
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 2,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": "Tài nguyên giữ vị trí quan trọng nhất Việt Nam hiện nay là:",
+          "answers": [
+            {
+              "answerText": "Tài nguyên sinh vật",
+              "score": false
+            },
+            {
+              "answerText": "Tài nguyên đất",
+              "score": true
+            },
+            {
+              "answerText": "Tài nguyên nước",
+              "score": false
+            },
+            {
+              "answerText": "Tài nguyên khoáng sản",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Nơi có tỉ lệ thiếu việc làm cao nhất ở Việt Nam là:",
+          "answers": [
+            {
+              "answerText": "Tây Nguyên.",
+              "score": false
+            },
+            {
+              "answerText": "Đồng Bằng Sông Cửu Long",
+              "score": false
+            },
+            {
+              "answerText": "Đồng bằng duyên hải miền Trung.",
+              "score": false
+            },
+            {
+              "answerText": "Đồng Bằng Sông Hậu",
+              "score": true
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Vùng Ba Vì (HN) nổi tiếng với các trang trại lớn, tập trung nhiều bò và dê để cho ra loại thức uống nào rất phổ biến?",
+          "answers": [
+            {
+              "answerText": "Sữa",
+              "score":true
+            },
+            {
+              "answerText": "Thịt",
+              "score":false
+            },
+            {
+              "answerText": "Lúa",
+              "score": false
+            },
+            {
+              "answerText": "Chè",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Ngọn hải đăng nào ở Bình Thuận được trung tâm sách kỷ lục Việt Nam xác nhận là ngọn hải đăng cao nhất và cổ xưa nhất Việt Nam?",
+          "answers": [
+            {
+              "answerText": "Hải đăng Kê Gà",
+              "score": true
+            },
+            {
+              "answerText": "Hải đăng Hòn Nước",
+              "score": false
+            },
+            {
+              "answerText": "Hải đăng Đại Lãnh",
+              "score": false
+            },
+            {
+              "answerText": "Hải đăng Bạch Long",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Tỉnh Bình Thuận còn được mệnh danh là[...] của đất nước.",
+          "answers": [
+            {
+              "answerText": "vương quốc tre",
+              "score": false
+            },
+            {
+              "answerText": "vương quốc dừa nước",
+              "score": false
+            },
+            {
+              "answerText": "vương quốc cây cao su",
+              "score": false
+            },
+            {
+              "answerText": "vương quốc thanh long",
+              "score": true
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 3,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": " Nơi thu nhập bình quân đầu người cao nhất nước ta là:",
+          "answers": [
+            {
+              "answerText": "Miền núi và trung du phía Bắc",
+              "score": false
+            },
+            {
+              "answerText": "Đông Nam Bộ",
+              "score": true
+            },
+            {
+              "answerText": "Đồng Bằng Sông Hậu",
+              "score": false
+            },
+            {
+              "answerText": "Tây Nguyên",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Vùng chuyên môn hóa về lương thực thực phẩm lớn nhất nước ta là:",
+          "answers": [
+            {
+              "answerText": "Đồng bằng sông Hồng",
+              "score": false
+            },
+            {
+              "answerText": "Đông Nam Bộ",
+              "score": false
+            },
+            {
+              "answerText": "Đồng bằng sông Cửu Long",
+              "score":true
+            },
+            {
+              "answerText": "Tây Nguyên",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "Trong các tài nguyên sau loại nào bị suy giảm nghiêm trọng nhất:",
+          "answers": [
+            {
+              "answerText": "đất",
+              "score": false
+            },
+            {
+              "answerText": "rừng",
+              "score": true
+            },
+            {
+              "answerText": "nước",
+              "score": false
+            },
+            {
+              "answerText": "biển",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": "Trên biểu trưng chính thức của tỉnh Bình Dương, có dòng chữ 'Thủ Dầu Một'.Thủ Dầu Một ở đây là gì?",
+          "answers": [
+            {
+              "answerText": "tên một thành phố",
+              "score": true
+            },
+            {
+              "answerText": "tên một huyện ",
+              "score": false
+            },
+            {
+              "answerText": "tên một xã.",
+              "score": false
+            },
+            {
+              "answerText": "tên một con đường",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Ngôi làng nào ở Bắc Ninh nổi tiếng với nghề làm tranh trên giấy điệp được công nhận là 'Di sản văn hóa phi vật thể cấp quốc gia'?",
+          "answers": [
+            {
+              "answerText": "Hàng Trống",
+              "score": false
+            },
+            {
+              "answerText": "Hồ tây",
+              "score": false
+            },
+            {
+              "answerText": "Kim hoàng",
+              "score": false
+            },
+            {
+              "answerText": "Đông hồ",
+              "score": true
+            }
+          ]
+        }
+      ]
+    },
+	
+	{
+      "id": 4,
+      "queries": [
+        
+		{
+          "id": 1,
+          "title": " Ngôi chùa nào ở Hà Nam được biết đến là 'ngôi chùa lớn nhất thế giới'.",
+          "answers": [
+            {
+              "answerText": "Chùa Tam Chúc",
+              "score": true
+            },
+            {
+              "answerText": "Chùa Vàng",
+              "score":false
+            },
+            {
+              "answerText": "Chùa Quan Âm",
+              "score": false
+            },
+            {
+              "answerText": "chùa Một Cột",
+              "score": false
+            }
+          ]
+        },
+		
+		{
+          "id": 2,
+          "title": "Thánh địa Mỹ Sơn được UNESCO công nhận di sản thế giới năm 1999 thuộc tỉnh nào?",
+          "answers": [
+            {
+              "answerText": "Quảng Ngãi",
+              "score": false
+            },
+            {
+              "answerText": "Quảng Bình",
+              "score": false
+            },
+            {
+              "answerText": "Quảng Nam",
+              "score":true
+            },
+            {
+              "answerText": "Quảng Trị",
+              "score":false
+            }
+          ]
+        }, 
+		{
+          "id": 3,
+          "title": "'Siêu đô thị' là thuật ngữ được sử dụng để chỉ các khu vực đô thị có dân số cao hơn?",
+          "answers": [
+            {
+              "answerText": "7 triệu người",
+              "score": false
+            },
+            {
+              "answerText": "10 triệu người",
+              "score": true
+            },
+            {
+              "answerText": "5 triệu người",
+              "score": false
+            },
+            {
+              "answerText": "1 triệu người",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 4,
+          "title": " Tỉnh/thành phố nào ở miền Bắc có diện tích nhỏ nhất trong 63 tỉnh thành trên cả nước?",
+          "answers": [
+            {
+              "answerText": "Bắc Ninh",
+              "score": true
+            },
+            {
+              "answerText": "Hà Giang",
+              "score": false
+            },
+            {
+              "answerText": "Điện Biên",
+              "score": false
+            },
+            {
+              "answerText": "Đức Linh",
+              "score": false
+            }
+          ]
+        }, 
+		{
+          "id": 5,
+          "title": "Các tỉnh, thành phố có tỉ lệ thất nghiệp cao nhất là:",
+          "answers": [
+            {
+              "answerText": "Hà Nội, Hải Phòng, Thái Nguyên",
+              "score": false
+            },
+            {
+              "answerText": "Hà Nội, Thái Bình, Hưng Yên",
+              "score": false
+            },
+            {
+              "answerText": "Thái Bình, Thanh Hóa",
+              "score": false
+            },
+            {
+              "answerText": "Hà Nội, Thái Bình, Hải Phòng, Hà Tây",
+              "score": true
+            }
+          ]
+        }
+      ]
+    }
+	
+  ]
+}

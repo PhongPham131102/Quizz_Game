@@ -1,0 +1,2226 @@
+{
+    "queries": [
+        {
+            "id": 1,
+            "title": "Đâu là Root Widget của 1 ứng dụng Flutter?",
+            "answers": [
+                {
+                    "answerText": "Container",
+                    "score": false
+                },
+                {
+                    "answerText": "MaterialApp",
+                    "score": true
+                },
+                {
+                    "answerText": "Scaffold",
+                    "score": false
+                },
+                {
+                    "answerText": "Card",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Lý Thái Tổ dời đô từ Hoa Lư về Thăng Long vào năm dương lịch nào?",
+            "answers": [
+                {
+                    "answerText": "năm 1008",
+                    "score": false
+                },
+                {
+                    "answerText": "năm 1010",
+                    "score": true
+                },
+                {
+                    "answerText": "năm 1009",
+                    "score": false
+                },
+                {
+                    "answerText": "năm 1012",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Triều Nguyễn tổng đã trãi qua bao nhiêu đời vua?",
+            "answers": [
+                {
+                    "answerText": "10 đời vua",
+                    "score": false
+                },
+                {
+                    "answerText": "11 đời vua",
+                    "score": false
+                },
+                {
+                    "answerText": "12 đời vua",
+                    "score": false
+                },
+                {
+                    "answerText": "13 đời vua",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Ngọn hải đăng nào ở Bình Thuận được trung tâm sách kỷ lục Việt Nam xác nhận là ngọn hải đăng cao nhất và cổ xưa nhất Việt Nam?",
+            "answers": [
+                {
+                    "answerText": "Hải đăng Kê Gà",
+                    "score": true
+                },
+                {
+                    "answerText": "Hải đăng Hòn Nước",
+                    "score": false
+                },
+                {
+                    "answerText": "Hải đăng Đại Lãnh",
+                    "score": false
+                },
+                {
+                    "answerText": "Hải đăng Bạch Long",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": " Nơi thu nhập bình quân đầu người cao nhất nước ta là:",
+            "answers": [
+                {
+                    "answerText": "Miền núi và trung du phía Bắc",
+                    "score": false
+                },
+                {
+                    "answerText": "Đông Nam Bộ",
+                    "score": true
+                },
+                {
+                    "answerText": "Đồng Bằng Sông Hậu",
+                    "score": false
+                },
+                {
+                    "answerText": "Tây Nguyên",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Vùng chuyên môn hóa về lương thực thực phẩm lớn nhất nước ta là:",
+            "answers": [
+                {
+                    "answerText": "Đồng bằng sông Hồng",
+                    "score": false
+                },
+                {
+                    "answerText": "Đông Nam Bộ",
+                    "score": false
+                },
+                {
+                    "answerText": "Đồng bằng sông Cửu Long",
+                    "score": true
+                },
+                {
+                    "answerText": "Tây Nguyên",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Đoạn trường tân thanh có nghĩa là gì?",
+            "answers": [
+                {
+                    "answerText": "Đứt từng mảnh ruột",
+                    "score": false
+                },
+                {
+                    "answerText": "Tiếng kêu mới",
+                    "score": true
+                },
+                {
+                    "answerText": "Con đường dài màu xanh đứt đoạn",
+                    "score": false
+                },
+                {
+                    "answerText": "Tiếng kêu mới tới đứt từng mảnh ruột",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Liệt kê những thanh trắc(T)?",
+            "answers": [
+                {
+                    "answerText": "Nặng, hỏi, sắc",
+                    "score": false
+                },
+                {
+                    "answerText": "Huyền, sắc, ngã",
+                    "score": false
+                },
+                {
+                    "answerText": "Ngang, huyền, sắc",
+                    "score": false
+                },
+                {
+                    "answerText": "Sắc, nặng, hỏi, ngã",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Có bao nhiêu nốt nhạc cơ bản?",
+            "answers": [
+                {
+                    "answerText": "8",
+                    "score": false
+                },
+                {
+                    "answerText": "7",
+                    "score": true
+                },
+                {
+                    "answerText": "6)",
+                    "score": false
+                },
+                {
+                    "answerText": "9",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Nước Việt Nam dân chủ Cộng hòa ra đời sau Cách mạng tháng Tám năm 1945 ở Việt Nam là nhà nước?",
+            "answers": [
+                {
+                    "answerText": "Công- nông",
+                    "score": false
+                },
+                {
+                    "answerText": "Cộng hòa tư sản",
+                    "score": false
+                },
+                {
+                    "answerText": "Công- nông- binh",
+                    "score": false
+                },
+                {
+                    "answerText": "Dân chủ nhân dân",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Sau CMT8, Bác Hồ đã nói: “ một dân tộc dốt là một dân tộc……”?",
+            "answers": [
+                {
+                    "answerText": "Yếu",
+                    "score": true
+                },
+                {
+                    "answerText": "Dốt",
+                    "score": false
+                },
+                {
+                    "answerText": "Thất bại",
+                    "score": false
+                },
+                {
+                    "answerText": "Nhỏ bé",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": " Tỉnh/thành phố nào ở miền Bắc có diện tích nhỏ nhất trong 63 tỉnh thành trên cả nước?",
+            "answers": [
+                {
+                    "answerText": "Bắc Ninh",
+                    "score": true
+                },
+                {
+                    "answerText": "Hà Giang",
+                    "score": false
+                },
+                {
+                    "answerText": "Điện Biên",
+                    "score": false
+                },
+                {
+                    "answerText": "Đức Linh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Hình tượng nhân vật nào trong sáng tác của Nam Cao được xem như đạt tới mức của một “siêu điển hình ” nghệ thuật?",
+            "answers": [
+                {
+                    "answerText": "Lão Hạc",
+                    "score": false
+                },
+                {
+                    "answerText": "Chí Phèo",
+                    "score": true
+                },
+                {
+                    "answerText": "Hộ (Đời thừa)",
+                    "score": false
+                },
+                {
+                    "answerText": "Điền (Trăng sáng)",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Bài thơ Việt Bắc sử dụng lối đối đáp giao duyên của:",
+            "answers": [
+                {
+                    "answerText": "Đồng dao",
+                    "score": false
+                },
+                {
+                    "answerText": "Ca dao dân ca",
+                    "score": true
+                },
+                {
+                    "answerText": "Vè",
+                    "score": false
+                },
+                {
+                    "answerText": "Câu đối",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Nhà Nguyễn lên ngôi năm nào?",
+            "answers": [
+                {
+                    "answerText": "1803",
+                    "score": false
+                },
+                {
+                    "answerText": "1804",
+                    "score": false
+                },
+                {
+                    "answerText": "1805",
+                    "score": false
+                },
+                {
+                    "answerText": "1802",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Vị vua đầu tiên trong lịch sử Việt Nam là ai?",
+            "answers": [
+                {
+                    "answerText": "Hàm Nghi",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành Thái",
+                    "score": false
+                },
+                {
+                    "answerText": "Duy Tân",
+                    "score": false
+                },
+                {
+                    "answerText": "Lý Nam Đế",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Thái sư Trần Thủ Độ có công lập nên Triều đại nào?",
+            "answers": [
+                {
+                    "answerText": "Trần",
+                    "score": true
+                },
+                {
+                    "answerText": "Lý",
+                    "score": false
+                },
+                {
+                    "answerText": "Lý Bí",
+                    "score": false
+                },
+                {
+                    "answerText": "Lý Thái Tông",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "“Chèo” thuộc loại hình nghệ thuật nào sau đây?",
+            "answers": [
+                {
+                    "answerText": "nghệ thuật sân khấu cổ",
+                    "score": true
+                },
+                {
+                    "answerText": "nghệ thuật đương đại",
+                    "score": false
+                },
+                {
+                    "answerText": "nghệ hiện đại",
+                    "score": false
+                },
+                {
+                    "answerText": "nghệ thuật sân khấu",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Bass là loại thanh điệu nào ?",
+            "answers": [
+                {
+                    "answerText": "giọng nam cao",
+                    "score": false
+                },
+                {
+                    "answerText": "giọng nam trầm",
+                    "score": true
+                },
+                {
+                    "answerText": "giọng nữ cao",
+                    "score": false
+                },
+                {
+                    "answerText": "giọng nữ trầm",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Tên thật của Bà Huyện Thanh Quan là gì?",
+            "answers": [
+                {
+                    "answerText": "Ngô Xuân Diệu",
+                    "score": false
+                },
+                {
+                    "answerText": "Ngô Thị Hinh",
+                    "score": true
+                },
+                {
+                    "answerText": "Trần Tế Xương",
+                    "score": false
+                },
+                {
+                    "answerText": "Phạm Qúy Thích",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Vũ Trọng Phụng trong “tiểu thuyết Số Đỏ” mắc phải căn bệnh gì?",
+            "answers": [
+                {
+                    "answerText": "Bệnh phong",
+                    "score": false
+                },
+                {
+                    "answerText": "Bệnh lao",
+                    "score": true
+                },
+                {
+                    "answerText": "Bệnh viêm phổi",
+                    "score": false
+                },
+                {
+                    "answerText": "Bệnh sốt rét",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Nhân vật chính của tiểu thuyết Số đỏ?",
+            "answers": [
+                {
+                    "answerText": "Cụ cố tổ",
+                    "score": false
+                },
+                {
+                    "answerText": "Văn Minh",
+                    "score": false
+                },
+                {
+                    "answerText": "Phán Quan",
+                    "score": false
+                },
+                {
+                    "answerText": "Xuân Tóc Đỏ",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Bài' Ngày đầu tiên đi học'là sáng tác của ai?",
+            "answers": [
+                {
+                    "answerText": "Văn Cao.",
+                    "score": false
+                },
+                {
+                    "answerText": "Nguyễn Ngọc Thiện",
+                    "score": true
+                },
+                {
+                    "answerText": "Phạm Tuyên",
+                    "score": false
+                },
+                {
+                    "answerText": "Mộng Lân.",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Qua bài thơ “Sóng”, Xuân Quỳnh đã khám phá sự tương đồng, hòa hợp giữa:",
+            "answers": [
+                {
+                    "answerText": "'Anh' và 'em'",
+                    "score": false
+                },
+                {
+                    "answerText": "'Sóng' và 'anh'",
+                    "score": false
+                },
+                {
+                    "answerText": "Tất cả các đáp án trên",
+                    "score": false
+                },
+                {
+                    "answerText": "'Sóng' và 'em'",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Nhiệt độ trung bình hằng năm của Việt Nam là:",
+            "answers": [
+                {
+                    "answerText": "20 độ C",
+                    "score": false
+                },
+                {
+                    "answerText": "22-27 độ C",
+                    "score": false
+                },
+                {
+                    "answerText": "25 độ C",
+                    "score": false
+                },
+                {
+                    "answerText": "18-22 độ C",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Ai đã đánh quân Nam Hán trên sông Bạch Đằng,năm 1288?",
+            "answers": [
+                {
+                    "answerText": "Ngô Quyền",
+                    "score": false
+                },
+                {
+                    "answerText": "Không ai cả",
+                    "score": true
+                },
+                {
+                    "answerText": "Trần Hưng Đạo",
+                    "score": false
+                },
+                {
+                    "answerText": "Đinh Bộ Lĩnh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Đâu là tên một công viên nước nổi tiếng ở Thành phố Hồ Chí Minh?",
+            "answers": [
+                {
+                    "answerText": "Đầm Sen",
+                    "score": true
+                },
+                {
+                    "answerText": "Chợ nổi Cái Răng",
+                    "score": false
+                },
+                {
+                    "answerText": "Hồ tây",
+                    "score": false
+                },
+                {
+                    "answerText": "Biển Đông",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Quê hương của nhà thơ Chế Lan Viên?",
+            "answers": [
+                {
+                    "answerText": "Quy Nhơn",
+                    "score": false
+                },
+                {
+                    "answerText": "Quảng Trị",
+                    "score": true
+                },
+                {
+                    "answerText": "Thanh Hóa",
+                    "score": false
+                },
+                {
+                    "answerText": "Quảng Bình",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Triều Nguyễn tổng đã trãi qua bao nhiêu đời vua?",
+            "answers": [
+                {
+                    "answerText": "10 đời vua",
+                    "score": false
+                },
+                {
+                    "answerText": "11 đời vua",
+                    "score": false
+                },
+                {
+                    "answerText": "12 đời vua",
+                    "score": false
+                },
+                {
+                    "answerText": "13 đời vua",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Triều đại phong kiến Việt Nam đã trải qua bao nhiêu Quốc hiệu?",
+            "answers": [
+                {
+                    "answerText": "8",
+                    "score": false
+                },
+                {
+                    "answerText": "7",
+                    "score": true
+                },
+                {
+                    "answerText": "9",
+                    "score": false
+                },
+                {
+                    "answerText": "12",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Ngày 2 - 9 - 1945, chủ tịch Hồ Chí Minh đọc bản tuyên ngôn độc lập ở đâu?",
+            "answers": [
+                {
+                    "answerText": "quảng trường Ba Đình",
+                    "score": true
+                },
+                {
+                    "answerText": "nhà hát Thành phố Hồ Chí Minh",
+                    "score": false
+                },
+                {
+                    "answerText": "sư Đoàn quân khu 7",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành phố Vinh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Để giải quyết nạn dốt ngay sau Cách mạng tháng Tám năm 1945, Chủ tịch Hồ Chí Minh đã kí sắc lệnh thành lập tổ chức gì?",
+            "answers": [
+                {
+                    "answerText": "hũ gạo cứu đói",
+                    "score": false
+                },
+                {
+                    "answerText": "nhà Bình dân học vụ",
+                    "score": true
+                },
+                {
+                    "answerText": "bình dân học vụ",
+                    "score": false
+                },
+                {
+                    "answerText": "cơ quan Giáo dục quốc gia",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Bản Tuyên ngôn độc lập của nước Việt Nam Dân chủ Cộng hòa được chủ tịch Hồ Chí Minh viết được coi là bản tuyên ngôn độc lập thứ mấy trong lịch sử Việt Nam?",
+            "answers": [
+                {
+                    "answerText": "thứ nhất",
+                    "score": false
+                },
+                {
+                    "answerText": "thứ ba",
+                    "score": true
+                },
+                {
+                    "answerText": "thứ hai",
+                    "score": false
+                },
+                {
+                    "answerText": "thứ tư",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Sau CMT8, Bác Hồ đã nói: “ một dân tộc dốt là một dân tộc……”?",
+            "answers": [
+                {
+                    "answerText": "Yếu",
+                    "score": true
+                },
+                {
+                    "answerText": "Dốt",
+                    "score": false
+                },
+                {
+                    "answerText": "Thất bại",
+                    "score": false
+                },
+                {
+                    "answerText": "Nhỏ bé",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "title": "Thành nào vua mộng thấy rồng bay lên?",
+            "answers": [
+                {
+                    "answerText": "Thành Thăng long",
+                    "score": true
+                },
+                {
+                    "answerText": "hành Hạ Long",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành Cổ Loa",
+                    "score": false
+                },
+                {
+                    "answerText": "Kinh Thành Huế",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "title": "Tài nguyên giữ vị trí quan trọng nhất Việt Nam hiện nay là:",
+            "answers": [
+                {
+                    "answerText": "Tài nguyên sinh vật",
+                    "score": false
+                },
+                {
+                    "answerText": "Tài nguyên đất",
+                    "score": true
+                },
+                {
+                    "answerText": "Tài nguyên nước",
+                    "score": false
+                },
+                {
+                    "answerText": "Tài nguyên khoáng sản",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "title": "Điền vào ô trống Do>Re>Mi>[...]>[...]>La>Si?",
+            "answers": [
+                {
+                    "answerText": "<Fa>,<Sol>",
+                    "score": true
+                },
+                {
+                    "answerText": "<Sol>,<Fa>t",
+                    "score": false
+                },
+                {
+                    "answerText": "<Pa>,<Son>",
+                    "score": false
+                },
+                {
+                    "answerText": "<Son>,<Pha>",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Bài hát'Người lạ ơi' có bao nhiêu thứ để mượn?",
+            "answers": [
+                {
+                    "answerText": "4",
+                    "score": false
+                },
+                {
+                    "answerText": "3",
+                    "score": true
+                },
+                {
+                    "answerText": "5",
+                    "score": false
+                },
+                {
+                    "answerText": "6",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "title": "Nhà nước Việt Nam Dân chủ Cộng hoà được thành lập năm 1945 là nhà nước của?",
+            "answers": [
+                {
+                    "answerText": "công, nông, binh",
+                    "score": false
+                },
+                {
+                    "answerText": "toàn thể nhân dân",
+                    "score": true
+                },
+                {
+                    "answerText": "công nhân và nông dân",
+                    "score": false
+                },
+                {
+                    "answerText": "công, nông, trí thức.",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "title": "Thắng lợi nào của nhân dân Việt Nam trong thế kỉ XX đã góp phần vào việc xóa bỏ chủ nghĩa phát xít trên thế giới?",
+            "answers": [
+                {
+                    "answerText": "Cách mạng tháng Tám năm 1945.",
+                    "score": true
+                },
+                {
+                    "answerText": "Kháng chiến chống Pháp (1945 - 1954)",
+                    "score": false
+                },
+                {
+                    "answerText": "Chiến thắng Điện Biên Phủ năm 1954.",
+                    "score": false
+                },
+                {
+                    "answerText": "Tổng tiến công và nổi dậy Xuân 1975",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "title": "Dấu hóa bất thường được đặt ở đâu trng khuôn nhạc?",
+            "answers": [
+                {
+                    "answerText": "Sau khóa nhạc",
+                    "score": false
+                },
+                {
+                    "answerText": "Trước nốt nhạc",
+                    "score": true
+                },
+                {
+                    "answerText": "Đầu khuôn nhạc",
+                    "score": false
+                },
+                {
+                    "answerText": "Cả A,B,C",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "title": "Lý Thái Tổ dời đô từ Hoa Lư về Thăng Long vào năm dương lịch nào?",
+            "answers": [
+                {
+                    "answerText": "năm 1008",
+                    "score": false
+                },
+                {
+                    "answerText": "năm 1010",
+                    "score": true
+                },
+                {
+                    "answerText": "năm 1009",
+                    "score": false
+                },
+                {
+                    "answerText": "năm 1012",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "title": "Việt Bắc sử dụng cặp đại từ xưng hô nào?",
+            "answers": [
+                {
+                    "answerText": "Ta – ta",
+                    "score": false
+                },
+                {
+                    "answerText": "Mình – ta",
+                    "score": true
+                },
+                {
+                    "answerText": "Anh – em",
+                    "score": false
+                },
+                {
+                    "answerText": "Mình – mình",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "title": "Nhằm khắc phục tình trạng trống rỗng về ngân sách của Chính phủ sau Cách mạng tháng Tám, nhân dân ta đã hưởng ứng phong trào nào?",
+            "answers": [
+                {
+                    "answerText": "Ngày đồng tâm",
+                    "score": false
+                },
+                {
+                    "answerText": "Hũ gạo cứu đói",
+                    "score": false
+                },
+                {
+                    "answerText": "Tuần lễ vàng",
+                    "score": true
+                },
+                {
+                    "answerText": "Nhường cơm, xẻ áo",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "title": "Ai là tác giả bài hát Lên đàng?",
+            "answers": [
+                {
+                    "answerText": "Văn Cao",
+                    "score": false
+                },
+                {
+                    "answerText": "Phạm Tuyên",
+                    "score": false
+                },
+                {
+                    "answerText": "Hoàng Lân",
+                    "score": false
+                },
+                {
+                    "answerText": "Lưu Hữu Phước",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "title": "Tô hoài sinh năm bao nhiêu?",
+            "answers": [
+                {
+                    "answerText": "27/5/1920",
+                    "score": false
+                },
+                {
+                    "answerText": "11/6/1920",
+                    "score": false
+                },
+                {
+                    "answerText": "27/9/1920",
+                    "score": true
+                },
+                {
+                    "answerText": "13/11/1920",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "title": "Công việc của Tràng trong truyện ngắn “ Vợ nhặt” ?",
+            "answers": [
+                {
+                    "answerText": "Nông dân",
+                    "score": false
+                },
+                {
+                    "answerText": "Kéo xe bò thuê",
+                    "score": true
+                },
+                {
+                    "answerText": "Xay lúa thuê",
+                    "score": false
+                },
+                {
+                    "answerText": "Cày thuê",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "title": "Các tỉnh, thành phố có tỉ lệ thất nghiệp cao nhất là:",
+            "answers": [
+                {
+                    "answerText": "Hà Nội, Hải Phòng, Thái Nguyên",
+                    "score": false
+                },
+                {
+                    "answerText": "Hà Nội, Thái Bình, Hưng Yên",
+                    "score": false
+                },
+                {
+                    "answerText": "Thái Bình, Thanh Hóa",
+                    "score": false
+                },
+                {
+                    "answerText": "Hà Nội, Thái Bình, Hải Phòng, Hà Tây",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "title": "Triều đại phong kiến Việt Nam đã trải qua bao nhiêu Quốc hiệu?",
+            "answers": [
+                {
+                    "answerText": "8",
+                    "score": false
+                },
+                {
+                    "answerText": "7",
+                    "score": true
+                },
+                {
+                    "answerText": "9",
+                    "score": false
+                },
+                {
+                    "answerText": "12",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "title": "Kế hoạch Vườn không nhà trống là kế sách của ai trong việc đẩy lùi thực dân Pháp?",
+            "answers": [
+                {
+                    "answerText": "Trần Hưng Đạo",
+                    "score": false
+                },
+                {
+                    "answerText": "Nguyễn Tri Phương",
+                    "score": true
+                },
+                {
+                    "answerText": "Tự Đức",
+                    "score": false
+                },
+                {
+                    "answerText": "Cao Bá Quát",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "title": "Nhằm khắc phục tình trạng trống rỗng về ngân sách của Chính phủ sau Cách mạng tháng Tám, nhân dân ta đã hưởng ứng phong trào nào?",
+            "answers": [
+                {
+                    "answerText": "Ngày đồng tâm",
+                    "score": false
+                },
+                {
+                    "answerText": "Hũ gạo cứu đói",
+                    "score": false
+                },
+                {
+                    "answerText": "Tuần lễ vàng",
+                    "score": true
+                },
+                {
+                    "answerText": "Nhường cơm, xẻ áo",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "title": " Ngôi chùa nào ở Hà Nam được biết đến là 'ngôi chùa lớn nhất thế giới'.",
+            "answers": [
+                {
+                    "answerText": "Chùa Tam Chúc",
+                    "score": true
+                },
+                {
+                    "answerText": "Chùa Vàng",
+                    "score": false
+                },
+                {
+                    "answerText": "Chùa Quan Âm",
+                    "score": false
+                },
+                {
+                    "answerText": "chùa Một Cột",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "title": "Thánh địa Mỹ Sơn được UNESCO công nhận di sản thế giới năm 1999 thuộc tỉnh nào?",
+            "answers": [
+                {
+                    "answerText": "Quảng Ngãi",
+                    "score": false
+                },
+                {
+                    "answerText": "Quảng Bình",
+                    "score": false
+                },
+                {
+                    "answerText": "Quảng Nam",
+                    "score": true
+                },
+                {
+                    "answerText": "Quảng Trị",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "title": "Loại nhạc cụ truyền thống độc đáo của vùng núi phía Bắc là gì?",
+            "answers": [
+                {
+                    "answerText": "Sáo Trúc",
+                    "score": false
+                },
+                {
+                    "answerText": "Khèn",
+                    "score": true
+                },
+                {
+                    "answerText": "Đàn nhị",
+                    "score": false
+                },
+                {
+                    "answerText": "Đàn Bầu",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "title": "Trường độ là gì?",
+            "answers": [
+                {
+                    "answerText": "Độ trầm bổng, cao thấp.",
+                    "score": false
+                },
+                {
+                    "answerText": "Độ ngân dài, ngắn",
+                    "score": true
+                },
+                {
+                    "answerText": "Độ mạnh, nhẹ",
+                    "score": false
+                },
+                {
+                    "answerText": "Màu âm khác nhau của âm thanh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "title": "Nốt nhạc nào sau đây có trường độ dài nhất?",
+            "answers": [
+                {
+                    "answerText": " nốt đen",
+                    "score": false
+                },
+                {
+                    "answerText": "nốt trắng",
+                    "score": true
+                },
+                {
+                    "answerText": "nốt móc",
+                    "score": false
+                },
+                {
+                    "answerText": "nốt kép",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "title": "Tôi thà làm dân một nước tự do còn hơn làm vua một nước nô lệ câu nói trên là của ai?",
+            "answers": [
+                {
+                    "answerText": "Hàm Nghi",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành Thái",
+                    "score": false
+                },
+                {
+                    "answerText": "Duy Tân",
+                    "score": false
+                },
+                {
+                    "answerText": "Bảo Đại",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "title": "Ngày 2 - 9 - 1945, chủ tịch Hồ Chí Minh đọc bản tuyên ngôn độc lập ở đâu?",
+            "answers": [
+                {
+                    "answerText": "quảng trường Ba Đình",
+                    "score": true
+                },
+                {
+                    "answerText": "nhà hát Thành phố Hồ Chí Minh",
+                    "score": false
+                },
+                {
+                    "answerText": "sư Đoàn quân khu 7",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành phố Vinh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "title": "Nước Việt Nam dân chủ Cộng hòa ra đời sau Cách mạng tháng Tám năm 1945 ở Việt Nam là nhà nước?",
+            "answers": [
+                {
+                    "answerText": "Công- nông",
+                    "score": false
+                },
+                {
+                    "answerText": "Cộng hòa tư sản",
+                    "score": false
+                },
+                {
+                    "answerText": "Công- nông- binh",
+                    "score": false
+                },
+                {
+                    "answerText": "Dân chủ nhân dân",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "title": "Tài nguyên đất của Việt Nam rất phong phú, trong đó có nhiều nhất là:",
+            "answers": [
+                {
+                    "answerText": "Đất đồng cỏ",
+                    "score": false
+                },
+                {
+                    "answerText": "Đất phù sa và đất feralit.",
+                    "score": true
+                },
+                {
+                    "answerText": "Đất phù sa",
+                    "score": false
+                },
+                {
+                    "answerText": "Đất hoang mạc",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "title": "Đáp án nào sau đây là tên một văn miếu ở tỉnh Đồng Nai?",
+            "answers": [
+                {
+                    "answerText": "Văn miếu Trấn Biên",
+                    "score": true
+                },
+                {
+                    "answerText": "Văn miếu Quốc Tự Giám",
+                    "score": false
+                },
+                {
+                    "answerText": "Văn miếu Nam Đàn",
+                    "score": false
+                },
+                {
+                    "answerText": "Văn miếu Bửu Long",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "title": "Nơi có tỉ lệ thiếu việc làm cao nhất ở Việt Nam là:",
+            "answers": [
+                {
+                    "answerText": "Tây Nguyên.",
+                    "score": false
+                },
+                {
+                    "answerText": "Đồng Bằng Sông Cửu Long",
+                    "score": false
+                },
+                {
+                    "answerText": "Đồng bằng duyên hải miền Trung.",
+                    "score": false
+                },
+                {
+                    "answerText": "Đồng Bằng Sông Hậu",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "title": "Thể loại nào thường được giới trẻ sử dụng vào các chuyên mục đường phố?",
+            "answers": [
+                {
+                    "answerText": "Rock",
+                    "score": false
+                },
+                {
+                    "answerText": "Hip Hop",
+                    "score": true
+                },
+                {
+                    "answerText": "Jazz",
+                    "score": false
+                },
+                {
+                    "answerText": "R&B",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "title": "Nhạc sĩ Văn Cao sáng tác bài Tiến quân ca (Quốc ca) vào năm nào?",
+            "answers": [
+                {
+                    "answerText": "1944",
+                    "score": true
+                },
+                {
+                    "answerText": "1945",
+                    "score": false
+                },
+                {
+                    "answerText": "1946",
+                    "score": false
+                },
+                {
+                    "answerText": "1948",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "title": "Bản Tuyên ngôn độc lập của nước Việt Nam Dân chủ Cộng hòa được chủ tịch Hồ Chí Minh viết được coi là bản tuyên ngôn độc lập thứ mấy trong lịch sử Việt Nam?",
+            "answers": [
+                {
+                    "answerText": "thứ nhất",
+                    "score": false
+                },
+                {
+                    "answerText": "thứ ba",
+                    "score": true
+                },
+                {
+                    "answerText": "thứ hai",
+                    "score": false
+                },
+                {
+                    "answerText": "thứ tư",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "title": "Kẻ thù nguy hiểm nhất của nước Việt Nam Dân chủ Cộng hòa trong năm đầu sau ngày Cách mạng tháng Tám (1945) thành công là",
+            "answers": [
+                {
+                    "answerText": "Phát xít Nhật",
+                    "score": false
+                },
+                {
+                    "answerText": "Đế quốc Anh.",
+                    "score": false
+                },
+                {
+                    "answerText": "Trung Hoa Dân Quốc",
+                    "score": false
+                },
+                {
+                    "answerText": "Thực dân Pháp",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "title": "Để giải quyết nạn dốt ngay sau Cách mạng tháng Tám năm 1945, Chủ tịch Hồ Chí Minh đã kí sắc lệnh thành lập tổ chức gì?",
+            "answers": [
+                {
+                    "answerText": "hũ gạo cứu đói",
+                    "score": false
+                },
+                {
+                    "answerText": "nhà Bình dân học vụ",
+                    "score": true
+                },
+                {
+                    "answerText": "bình dân học vụ",
+                    "score": false
+                },
+                {
+                    "answerText": "cơ quan Giáo dục quốc gia",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "title": "Kẻ thù nguy hiểm nhất của nước Việt Nam Dân chủ Cộng hòa trong năm đầu sau ngày Cách mạng tháng Tám (1945) thành công là",
+            "answers": [
+                {
+                    "answerText": "Phát xít Nhật",
+                    "score": false
+                },
+                {
+                    "answerText": "Đế quốc Anh.",
+                    "score": false
+                },
+                {
+                    "answerText": "Trung Hoa Dân Quốc",
+                    "score": false
+                },
+                {
+                    "answerText": "Thực dân Pháp",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "title": "'Siêu đô thị' là thuật ngữ được sử dụng để chỉ các khu vực đô thị có dân số cao hơn?",
+            "answers": [
+                {
+                    "answerText": "7 triệu người",
+                    "score": false
+                },
+                {
+                    "answerText": "10 triệu người",
+                    "score": true
+                },
+                {
+                    "answerText": "5 triệu người",
+                    "score": false
+                },
+                {
+                    "answerText": "1 triệu người",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "title": "Thể loại của Truyện Kiều là:",
+            "answers": [
+                {
+                    "answerText": "Truyền kí",
+                    "score": false
+                },
+                {
+                    "answerText": "Kí",
+                    "score": false
+                },
+                {
+                    "answerText": "Tiểu thuyết chương hồi",
+                    "score": false
+                },
+                {
+                    "answerText": "Truyện Nôm",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "title": "Ai đã đánh quân Nam Hán trên sông Bạch Đằng,năm 1288?",
+            "answers": [
+                {
+                    "answerText": "Ngô Quyền",
+                    "score": false
+                },
+                {
+                    "answerText": "Không ai cả",
+                    "score": true
+                },
+                {
+                    "answerText": "Trần Hưng Đạo",
+                    "score": false
+                },
+                {
+                    "answerText": "Đinh Bộ Lĩnh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "title": "Kế hoạch Vườn không nhà trống là kế sách của ai trong việc đẩy lùi thực dân Pháp?",
+            "answers": [
+                {
+                    "answerText": "Trần Hưng Đạo",
+                    "score": false
+                },
+                {
+                    "answerText": "Nguyễn Tri Phương",
+                    "score": true
+                },
+                {
+                    "answerText": "Tự Đức",
+                    "score": false
+                },
+                {
+                    "answerText": "Cao Bá Quát",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "title": "Ngày 2-9-1945, ở Việt Nam đã diễn ra sự kiện lịch sử trọng đại gì?",
+            "answers": [
+                {
+                    "answerText": "Cách mạng tháng Tám thành công trên cả nước",
+                    "score": false
+                },
+                {
+                    "answerText": "HCM đọc bản Tuyên ngôn độc lập, tuyên bố sự ra đời của nước VN Dân chủ cộng hòa",
+                    "score": true
+                },
+                {
+                    "answerText": "Vua Bảo Đại tuyên bố thoái vị",
+                    "score": false
+                },
+                {
+                    "answerText": "Thực dân Pháp chính thức nổ súng quay trở lại xâm lược Việt Nam",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "title": "Tỉnh Bình Thuận còn được mệnh danh là[...] của đất nước.",
+            "answers": [
+                {
+                    "answerText": "vương quốc tre",
+                    "score": false
+                },
+                {
+                    "answerText": "vương quốc dừa nước",
+                    "score": false
+                },
+                {
+                    "answerText": "vương quốc cây cao su",
+                    "score": false
+                },
+                {
+                    "answerText": "vương quốc thanh long",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "title": "Bài hát Lý cây đa thuộc dân ca vùng nào?",
+            "answers": [
+                {
+                    "answerText": "Dân ca quan họ Bắc Ninh",
+                    "score": true
+                },
+                {
+                    "answerText": "NDân ca Quảng Nam",
+                    "score": false
+                },
+                {
+                    "answerText": "ân ca Thừa Thiên Huế",
+                    "score": false
+                },
+                {
+                    "answerText": "Dân ca miền núi",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "title": "Trông điệp khúc bài' Anh cứ đi đi' em đã đuổi anh đi bao nhiêu lần?",
+            "answers": [
+                {
+                    "answerText": "2",
+                    "score": true
+                },
+                {
+                    "answerText": "3",
+                    "score": false
+                },
+                {
+                    "answerText": "4",
+                    "score": false
+                },
+                {
+                    "answerText": "0",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "title": "Ngày 2-9-1945, ở Việt Nam đã diễn ra sự kiện lịch sử trọng đại gì?",
+            "answers": [
+                {
+                    "answerText": "Cách mạng tháng Tám thành công trên cả nước",
+                    "score": false
+                },
+                {
+                    "answerText": "HCM đọc bản Tuyên ngôn độc lập, tuyên bố sự ra đời của nước VN Dân chủ cộng hòa",
+                    "score": true
+                },
+                {
+                    "answerText": "Vua Bảo Đại tuyên bố thoái vị",
+                    "score": false
+                },
+                {
+                    "answerText": "Thực dân Pháp chính thức nổ súng quay trở lại xâm lược Việt Nam",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "title": "Chính phủ lâm thời nước Việt Nam dân chủ cộng hòa được cải tổ từ",
+            "answers": [
+                {
+                    "answerText": "Ủy ban Quân sự cách mạng Bắc Kì",
+                    "score": false
+                },
+                {
+                    "answerText": "Ủy ban Khởi nghĩa toàn quốc",
+                    "score": false
+                },
+                {
+                    "answerText": "Ủy ban Dân tộc giải phóng Việt Nam",
+                    "score": true
+                },
+                {
+                    "answerText": "Tổng bộ Việt Minh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "title": "Tôi thà làm dân một nước tự do còn hơn làm vua một nước nô lệ câu nói trên là của ai?",
+            "answers": [
+                {
+                    "answerText": "Hàm Nghi",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành Thái",
+                    "score": false
+                },
+                {
+                    "answerText": "Duy Tân",
+                    "score": false
+                },
+                {
+                    "answerText": "Bảo Đại",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "title": "Ngôi làng nào ở Bắc Ninh nổi tiếng với nghề làm tranh trên giấy điệp được công nhận là 'Di sản văn hóa phi vật thể cấp quốc gia'?",
+            "answers": [
+                {
+                    "answerText": "Hàng Trống",
+                    "score": false
+                },
+                {
+                    "answerText": "Hồ tây",
+                    "score": false
+                },
+                {
+                    "answerText": "Kim hoàng",
+                    "score": false
+                },
+                {
+                    "answerText": "Đông hồ",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "title": "Tên thật của nhà văn Nam Cao là gì?",
+            "answers": [
+                {
+                    "answerText": "Nguyễn Tường Lân",
+                    "score": false
+                },
+                {
+                    "answerText": "Trần Hữu Tri",
+                    "score": true
+                },
+                {
+                    "answerText": "Nguyễn Tường Tam",
+                    "score": false
+                },
+                {
+                    "answerText": "Nguyễn Trung Thành",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "title": "Nhạc sĩ thiên tài W.A Mozart là người nước nào?",
+            "answers": [
+                {
+                    "answerText": "Nước Áo",
+                    "score": true
+                },
+                {
+                    "answerText": "Nước Tây Ban Nha",
+                    "score": false
+                },
+                {
+                    "answerText": "Nước Ý",
+                    "score": false
+                },
+                {
+                    "answerText": "Nước Thổ Nhĩ Kìh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "title": "Chính phủ lâm thời nước Việt Nam dân chủ cộng hòa được cải tổ từ",
+            "answers": [
+                {
+                    "answerText": "Ủy ban Quân sự cách mạng Bắc Kì",
+                    "score": false
+                },
+                {
+                    "answerText": "Ủy ban Khởi nghĩa toàn quốc",
+                    "score": false
+                },
+                {
+                    "answerText": "Ủy ban Dân tộc giải phóng Việt Nam",
+                    "score": true
+                },
+                {
+                    "answerText": "Tổng bộ Việt Minh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "title": "Thắng lợi nào của nhân dân Việt Nam trong thế kỉ XX đã góp phần vào việc xóa bỏ chủ nghĩa phát xít trên thế giới?",
+            "answers": [
+                {
+                    "answerText": "Cách mạng tháng Tám năm 1945.",
+                    "score": true
+                },
+                {
+                    "answerText": "Kháng chiến chống Pháp (1945 - 1954)",
+                    "score": false
+                },
+                {
+                    "answerText": "Chiến thắng Điện Biên Phủ năm 1954.",
+                    "score": false
+                },
+                {
+                    "answerText": "Tổng tiến công và nổi dậy Xuân 1975",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "title": "Trong các tài nguyên sau loại nào bị suy giảm nghiêm trọng nhất:",
+            "answers": [
+                {
+                    "answerText": "đất",
+                    "score": false
+                },
+                {
+                    "answerText": "rừng",
+                    "score": true
+                },
+                {
+                    "answerText": "nước",
+                    "score": false
+                },
+                {
+                    "answerText": "biển",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "title": "Loại văn bản nào dưới đây không thuộc phong cách ngôn ngữ hành chính?",
+            "answers": [
+                {
+                    "answerText": "Các nghị định",
+                    "score": false
+                },
+                {
+                    "answerText": "Luận văn",
+                    "score": true
+                },
+                {
+                    "answerText": "Giấy chứng nhận",
+                    "score": false
+                },
+                {
+                    "answerText": "Đơn từ",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "title": "Điền vào chỗ trống: 'Từ ấy trông tôi bừng[...].Mặt trời chân lí chói qua tim.(Từ ấy-Tố Hữu)",
+            "answers": [
+                {
+                    "answerText": "nắng chói",
+                    "score": false
+                },
+                {
+                    "answerText": "nắng xuân",
+                    "score": false
+                },
+                {
+                    "answerText": "nắng vàng",
+                    "score": false
+                },
+                {
+                    "answerText": "nắng hạ",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "title": "Hình tượng nhân vật Huấn Cao trong Chữ Người Tử Tù được tác giả Nguyễn Tuân lấy nguyên mẫu từ nhân vật lịch sử nào sau đây:",
+            "answers": [
+                {
+                    "answerText": "Trương Hán Siêu",
+                    "score": false
+                },
+                {
+                    "answerText": "Cao Bá Quát",
+                    "score": true
+                },
+                {
+                    "answerText": "Lý Thường Kiệt",
+                    "score": false
+                },
+                {
+                    "answerText": "Phạm Ngũ Lão",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "title": "Nhà Nguyễn lên ngôi năm nào?",
+            "answers": [
+                {
+                    "answerText": "1803",
+                    "score": false
+                },
+                {
+                    "answerText": "1804",
+                    "score": false
+                },
+                {
+                    "answerText": "1805",
+                    "score": false
+                },
+                {
+                    "answerText": "1802",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "title": "Nhà nước Việt Nam Dân chủ Cộng hoà được thành lập năm 1945 là nhà nước của?",
+            "answers": [
+                {
+                    "answerText": "công, nông, binh",
+                    "score": false
+                },
+                {
+                    "answerText": "toàn thể nhân dân",
+                    "score": true
+                },
+                {
+                    "answerText": "công nhân và nông dân",
+                    "score": false
+                },
+                {
+                    "answerText": "công, nông, trí thức.",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "title": "Thái sư Trần Thủ Độ có công lập nên Triều đại nào?",
+            "answers": [
+                {
+                    "answerText": "Trần",
+                    "score": true
+                },
+                {
+                    "answerText": "Lý",
+                    "score": false
+                },
+                {
+                    "answerText": "Lý Bí",
+                    "score": false
+                },
+                {
+                    "answerText": "Lý Thái Tông",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "title": "Chữ người tử tù được trích trong tập truyện nào dưới đây?",
+            "answers": [
+                {
+                    "answerText": "Một chuyến đi",
+                    "score": false
+                },
+                {
+                    "answerText": "Vang bóng một thời",
+                    "score": true
+                },
+                {
+                    "answerText": "Tao đàn",
+                    "score": false
+                },
+                {
+                    "answerText": "Đường vui",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "title": "Trong ca khúc:'Dàn đồng ca mùa hạ' của Nguyễn Minh Châu, 'Dàn đồng ca mùa hạ' ở đây dùng để chỉ điều gì?",
+            "answers": [
+                {
+                    "answerText": "Tiếng ve kêu",
+                    "score": true
+                },
+                {
+                    "answerText": "Tiếng đàn",
+                    "score": false
+                },
+                {
+                    "answerText": "Tiếng hát trưa hè",
+                    "score": false
+                },
+                {
+                    "answerText": "Tiếng suối róc rách",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "title": "Khuôn nhạc gồm mấy dòng và mấy khe?",
+            "answers": [
+                {
+                    "answerText": "Bốn dòng bốn khe",
+                    "score": false
+                },
+                {
+                    "answerText": "Bốn dòng năm khe",
+                    "score": false
+                },
+                {
+                    "answerText": "Năm dòng bốn khe",
+                    "score": true
+                },
+                {
+                    "answerText": "Sáu dòng năm khe",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "title": "Vị vua đầu tiên trong lịch sử Việt Nam là ai?",
+            "answers": [
+                {
+                    "answerText": "Hàm Nghi",
+                    "score": false
+                },
+                {
+                    "answerText": "Thành Thái",
+                    "score": false
+                },
+                {
+                    "answerText": "Duy Tân",
+                    "score": false
+                },
+                {
+                    "answerText": "Lý Nam Đế",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "title": "Vùng Ba Vì (HN) nổi tiếng với các trang trại lớn, tập trung nhiều bò và dê để cho ra loại thức uống nào rất phổ biến?",
+            "answers": [
+                {
+                    "answerText": "Sữa",
+                    "score": true
+                },
+                {
+                    "answerText": "Thịt",
+                    "score": false
+                },
+                {
+                    "answerText": "Lúa",
+                    "score": false
+                },
+                {
+                    "answerText": "Chè",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "title": "Những quy luật cơ bản của quá trình văn học là:",
+            "answers": [
+                {
+                    "answerText": "Quy luật gắn bó đời sống",
+                    "score": false
+                },
+                {
+                    "answerText": "Quy luật kế thừa và cách tânc",
+                    "score": false
+                },
+                {
+                    "answerText": "Quy luật bảo lưu và tiếp biến",
+                    "score": false
+                },
+                {
+                    "answerText": "Tất cả các đáp án trên",
+                    "score": true
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "title": "Cao độ là gì?",
+            "answers": [
+                {
+                    "answerText": "Độ trầm bổng, cao thấp.",
+                    "score": true
+                },
+                {
+                    "answerText": "Độ ngân dài, ngắn.",
+                    "score": false
+                },
+                {
+                    "answerText": "Độ mạnh, nhẹ.",
+                    "score": false
+                },
+                {
+                    "answerText": "Màu âm khác nhau của âm thanh",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "title": "Đáp án nào sau đây không phải nội dung thơ của Tố Hữu?",
+            "answers": [
+                {
+                    "answerText": "Trữ tình chính trị.",
+                    "score": false
+                },
+                {
+                    "answerText": "Tính triết lý, suy tưởng.",
+                    "score": true
+                },
+                {
+                    "answerText": "Khuynh hướng sử thi",
+                    "score": false
+                },
+                {
+                    "answerText": "Khuynh hướng suy tưởng.",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "title": "Trên biểu trưng chính thức của tỉnh Bình Dương, có dòng chữ 'Thủ Dầu Một'.Thủ Dầu Một ở đây là gì?",
+            "answers": [
+                {
+                    "answerText": "tên một thành phố",
+                    "score": true
+                },
+                {
+                    "answerText": "tên một huyện ",
+                    "score": false
+                },
+                {
+                    "answerText": "tên một xã.",
+                    "score": false
+                },
+                {
+                    "answerText": "tên một con đường",
+                    "score": false
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "title": "Nhạc công là gì?",
+            "answers": [
+                {
+                    "answerText": "người quản lí nhạc cụ",
+                    "score": false
+                },
+                {
+                    "answerText": "người biểu diễn nhạc bằng các nhạc cụ",
+                    "score": true
+                },
+                {
+                    "answerText": "người chế tạo nhạc cụ",
+                    "score": false
+                },
+                {
+                    "answerText": "người sáng tác nhạc",
+                    "score": false
+                }
+            ]
+        }
+    ]
+}
